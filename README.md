@@ -1,7 +1,6 @@
-# Simple Examples of Tech Demoed at PyData NYC 2015
+# A few simple examples of some Jupyter notebooks doing stuff
 
-Some examples of using modules including:
-* dask
-* jupyter kernels
-* networkx
-* keras
+Some examples of include:
+* using Google Directions API to figure out when to make the harrowing drive into LA
+* Fitting a recommender using pyspark
+* Applying Oreilly's 2015 linear salary model
