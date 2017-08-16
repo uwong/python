@@ -1,0 +1,6 @@
+
+# compressed files
+*.gz
+
+# image files
+*.png
